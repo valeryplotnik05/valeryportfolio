@@ -22,10 +22,15 @@
 Сайт представляет собой единый HTML-файл и не требует сборки или установки зависимостей:
 
 ```bash
-open valeria_blue.html
+open index.html
 ```
 
-или просто откройте файл `valeria_blue.html` в браузере.
+или просто откройте файл `index.html` в браузере.
+
+## 🌐 Демо
+
+Сайт опубликован через GitHub Pages: после включения Pages в настройках репозитория (Settings → Pages → Source: ветка `main`, папка `/`) он будет доступен по адресу
+`https://valeryplotnik05.github.io/valeryportfolio/`
 
 ## 📬 Контакты
 
